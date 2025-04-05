@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+transformers
+torch
+Pillow
+opencv-python
+aiortc
+av
+numpy
+python-socketio
